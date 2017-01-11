@@ -1,6 +1,6 @@
 
 
-It's a project for [freeCodeCamp](https://www.freecodecamp.com)!
+It's a project for [freeCodeCamp](https://www.freecodecamp.com/challenges/build-a-tribute-page)!
 
 Check my [profile](https://www.freecodecamp.com/gph)!
 
