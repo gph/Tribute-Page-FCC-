@@ -1,6 +1,6 @@
 
 
-It's a challenge project of [freeCodeCamp](https://www.freecodecamp.com)!
+It's a project for [freeCodeCamp](https://www.freecodecamp.com)!
 
 Check my [profile](https://www.freecodecamp.com/gph)!
 
