@@ -2,7 +2,7 @@
 
 It's a challenge project of [freeCodeCamp](https://www.freecodecamp.com)!
 
-Check my [profile](https://www.freecodecamp.com/gph) there...
+Check my [profile](https://www.freecodecamp.com/gph)!
 
-
-All information about the biography in the tribute page is from [Wikipedia](https://en.wikipedia.org/wiki/Syd_Barrett) and [David Gilmour's page](www.davidgilmour.com/faqs.htm).
+PS: 
+> all information about the biography in the tribute page is from [Wikipedia](https://en.wikipedia.org/wiki/Syd_Barrett) and [David Gilmour's page](www.davidgilmour.com/faqs.htm).
